@@ -1,0 +1,6 @@
+@PromoosTT_HostAddress = http://localhost:5122
+
+GET {{PromoosTT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
